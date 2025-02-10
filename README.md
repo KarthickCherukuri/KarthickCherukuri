@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karthick_chk" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_chk?logo=twitter&style=for-the-badge" alt="karthick_chk" /></a> </p>
 
-- 🔭 I’m currently working on [Notepad](https://github.com/KarthickCherukuri/Notepad)
+- 🔭 I’m currently working on [Classroom](https://github.com/KarthickCherukuri/ClassRoom)
 
 - 🌱 I’m currently learning **ML**
 
